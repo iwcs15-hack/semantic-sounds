@@ -9,3 +9,6 @@ Removed all pairs where the two words had the same stem (used Porter stemming).
 
 Output of just under 2 million word pairs (1959712).
 
+[Pretty pictures](http://iwcs15-hack.github.io/semantic-sounds) and some
+interesting word pairts.
+
