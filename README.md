@@ -7,5 +7,5 @@ Calculate phonetic similarity for each word pair (using https://github.com/Derek
 
 Removed all pairs where the two words had the same stem (used Porter stemming).
 
-Output of just under 2 million word pairs.
+Output of just under 2 million word pairs (1959712).
 
